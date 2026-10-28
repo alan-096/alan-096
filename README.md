@@ -14,3 +14,4 @@ You can click the Preview link to take a look at your changes.
 <img width="1459" height="790" alt="image" src="https://github.com/user-attachments/assets/c4690a0b-87cd-49e8-bd84-b39fd82ef866" />
 <img width="1848" height="910" alt="螢幕擷取畫面 2026-10-21 151321" src="https://github.com/user-attachments/assets/6b0fc7ca-52b8-48ca-a93d-5753504c1b33" />
 <img width="1383" height="903" alt="螢幕擷取畫面 2026-10-21 154446" src="https://github.com/user-attachments/assets/9375989b-0490-4d8d-9a4c-daed724ee579" />
+<img width="1342" height="862" alt="image" src="https://github.com/user-attachments/assets/e2b84ad5-6bfa-439c-b915-2e10d0af318c" />
